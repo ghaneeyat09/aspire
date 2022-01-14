@@ -1,0 +1,55 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+#jpegs div img{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+/********#jpegs{
+    height: 500vh;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 0.15fr 1.5fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-areas: 
+    "sect01"
+    "sect02"
+    "sect03"
+    "sect04"
+    "sect05"
+    "sect06"
+    "sect07"
+    "sect08"
+    "sect09";
+}
+.sect01{
+    grid-area: sect01;
+}.sect02{
+    grid-area: sect02;
+    background-color: red;
+}.sect03{
+    grid-area: sect03;
+    background-color: yellow;
+}.sect04{
+    grid-area: sect04;
+    background-color: green;
+}.sect05{
+    grid-area: sect05;
+    background-color: purple;
+}.sect06{
+    grid-area: sect06;
+    background-color: grey;
+}.sect07{
+    grid-area: sect07;
+    background-color: antiquewhite;
+}.sect08{
+    grid-area: sect08;
+    background-color: midnightblue;
+}.sect09{
+    grid-area: sect09;
+    background-color: firebrick;
+}
+
+*********/

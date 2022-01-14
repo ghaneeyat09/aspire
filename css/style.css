@@ -6,12 +6,9 @@ body{
     margin: 0;
     padding: 0;
     width: 100%;
+    height: auto;
 }
-@media screen and (max-width: 550px){
-    .sect07 img{
-        min-height: 40px;
-    }
-}
+
 /********#jpegs{
     height: 500vh;
     display: grid;
